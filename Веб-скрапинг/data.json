@@ -1,0 +1,362 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/76450782",
+        "salary": "з/п не указана",
+        "name_company": "Сбер для экспертов",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76405603",
+        "salary": "от 60000 до 140000 руб. на руки",
+        "name_company": "ОООРА Дельта",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/71069892",
+        "salary": "от 160000 до 200000 руб. на руки",
+        "name_company": "Enjoypro",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76132760",
+        "salary": "от 180000 руб. на руки",
+        "name_company": "ОООРайтек",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/67864415",
+        "salary": "до 80000 руб. на руки",
+        "name_company": "Hexlet",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75951031",
+        "salary": "от 90000 до 180000 руб. до вычета налогов",
+        "name_company": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+        "city": "Москва, Аэропорт, улица Викторенко, 7"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75679088",
+        "salary": "от 140000 до 250000 руб. на руки",
+        "name_company": "AERODISK",
+        "city": "Москва, Калужская, Калужско-Рижская линия, метро Калужская"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75436252",
+        "salary": "от 100000 руб. на руки",
+        "name_company": "Own Script",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73383410",
+        "salary": "з/п не указана",
+        "name_company": "билайн: ИТ, Data, Digital",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76604020",
+        "salary": "з/п не указана",
+        "name_company": "YADRO",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76544839",
+        "salary": "з/п не указана",
+        "name_company": "ОООСТМ",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72416567",
+        "salary": "з/п не указана",
+        "name_company": "VK, ВКонтакте",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76150366",
+        "salary": "до 180000 руб. на руки",
+        "name_company": "ОООСмартЭкоСистема",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75859273",
+        "salary": "от 230000 руб. на руки",
+        "name_company": "ОООЛИГРЕС",
+        "city": "Санкт-Петербург, Выборгская, Площадь Ленина, Большой Сампсониевский проспект, 28к2"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76161627",
+        "salary": "з/п не указана",
+        "name_company": "РБК",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75790555",
+        "salary": "з/п не указана",
+        "name_company": "ОООЛИИС Инженерные Решения",
+        "city": "Санкт-Петербург, Петроградская, улица Профессора Попова, 23"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75544770",
+        "salary": "з/п не указана",
+        "name_company": "ОООБОЛЬШАЯ ТРОЙКА",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72416568",
+        "salary": "з/п не указана",
+        "name_company": "VK, ВКонтакте",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76482137",
+        "salary": "з/п не указана",
+        "name_company": "Aston",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75793282",
+        "salary": "з/п не указана",
+        "name_company": "Outlines Technologies",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/44070869",
+        "salary": "з/п не указана",
+        "name_company": "ГРЧЦ, ФГУП",
+        "city": "Москва, Павелецкая, Дербеневская набережная, 7с9"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/67913302",
+        "salary": "з/п не указана",
+        "name_company": "Омега Технологии будущего",
+        "city": "Санкт-Петербург, Площадь Александра Невского 1, Площадь Александра Невского 2, Синопская набережная, 52"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76384846",
+        "salary": "от 120000 до 200000 руб. на руки",
+        "name_company": "ОООЛаборатория Наносемантика",
+        "city": "Москва, Верейская улица, 29с134"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76148363",
+        "salary": "от 80000 руб. на руки",
+        "name_company": "ОООВиста",
+        "city": "Санкт-Петербург, набережная Обводного Канала, 93а"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75857700",
+        "salary": "з/п не указана",
+        "name_company": "МАГНИТ, Розничная сеть",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72748475",
+        "salary": "з/п не указана",
+        "name_company": "Hexlet",
+        "city": "Москва, Волгоградский проспект, Волгоградский проспект, 32к5"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/48216332",
+        "salary": "от 400000 до 500000 руб. на руки",
+        "name_company": "GRI",
+        "city": "Москва, Мякинино, Павшино, Строгино, Щукинская, улица Маршала Прошлякова, 30"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73324416",
+        "salary": "от 150000 до 250000 руб. на руки",
+        "name_company": "ОООЮвента",
+        "city": "Санкт-Петербург, Бумажная улица, 4"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76109417",
+        "salary": "з/п не указана",
+        "name_company": "Ventra",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75761704",
+        "salary": "з/п не указана",
+        "name_company": "ПАО ВТБ, Технологический блок",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75663540",
+        "salary": "з/п не указана",
+        "name_company": "ПАОПервая Грузовая Компания, IT/Digital",
+        "city": "Москва, Бауманская, Комсомольская, Комсомольская, Новорязанская улица, 24"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/71428568",
+        "salary": "от 250000 до 300000 руб. на руки",
+        "name_company": "ФГБУ ЦСП ФМБА России",
+        "city": "Москва, Покровское, Покровское-Стрешнево, Стрешнево, Щукинская, Щукинская улица, 5с6"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73474881",
+        "salary": "з/п не указана",
+        "name_company": "Онлайн-школа Тетрика",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75557557",
+        "salary": "до 9000 USD на руки",
+        "name_company": "Wanted",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75835150",
+        "salary": "з/п не указана",
+        "name_company": "Сбер для экспертов",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75847797",
+        "salary": "з/п не указана",
+        "name_company": "ПАО«МТС», IT",
+        "city": "Москва, Технопарк, проспект Андропова, 18к9"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/70899389",
+        "salary": "з/п не указана",
+        "name_company": "Иви",
+        "city": "Москва, Дмитровская, Большая Новодмитровская улица, 23с5"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73724654",
+        "salary": "з/п не указана",
+        "name_company": "ВТБ Капитал",
+        "city": "Москва, Выставочная, Пресненская набережная, 12"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75793172",
+        "salary": "от 3000 до 4000 USD на руки",
+        "name_company": "CiPlay",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/55544528",
+        "salary": "з/п не указана",
+        "name_company": "ТехноНИКОЛЬ",
+        "city": "Москва, ул. Гиляровского, 47/5"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72195024",
+        "salary": "з/п не указана",
+        "name_company": "Иви",
+        "city": "Москва, Дмитровская, Большая Новодмитровская улица, 23с5"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76417689",
+        "salary": "з/п не указана",
+        "name_company": "Rambler&Co",
+        "city": "Москва, Тульская, Варшавское шоссе, 9с1"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75526112",
+        "salary": "з/п не указана",
+        "name_company": "ООО«РУСАГРО», Группа компаний",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75955238",
+        "salary": "з/п не указана",
+        "name_company": "ОООГПМ Партнер",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76217895",
+        "salary": "з/п не указана",
+        "name_company": "ПАО«МТС», IT",
+        "city": "Москва, Технопарк, проспект Андропова, 18к9"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/71862882",
+        "salary": "з/п не указана",
+        "name_company": "Ростелеком - Центры обработки данных",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/66147239",
+        "salary": "з/п не указана",
+        "name_company": "SUNLIGHT/САНЛАЙТ",
+        "city": "Москва, Мякинино, Павшино, Строгино, Щукинская, улица Маршала Прошлякова, 30"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/54492842",
+        "salary": "з/п не указана",
+        "name_company": "SUNLIGHT/САНЛАЙТ",
+        "city": "Москва, Мякинино, Павшино, Строгино, Щукинская, улица Маршала Прошлякова, 30"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75950777",
+        "salary": "з/п не указана",
+        "name_company": "Московский Кредитный Банк. ИТ-специалисты",
+        "city": "Москва, Луков переулок, 2с1"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73244938",
+        "salary": "з/п не указана",
+        "name_company": "Онлайн-школа Тетрика",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76130552",
+        "salary": "з/п не указана",
+        "name_company": "Альфа-Банк. Digital & IT",
+        "city": "Москва, проспект Андропова, 18к3"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75526156",
+        "salary": "з/п не указана",
+        "name_company": "ООО«РУСАГРО», Группа компаний",
+        "city": "Москва, Добрынинская, Валовая улица, 35"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75842655",
+        "salary": "з/п не указана",
+        "name_company": "Райффайзен Банк",
+        "city": "Москва, Технопарк, проспект Андропова, 18к2"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73800677",
+        "salary": "з/п не указана",
+        "name_company": "Skillbox",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73474882",
+        "salary": "з/п не указана",
+        "name_company": "Онлайн-школа Тетрика",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/40379537",
+        "salary": "до 230000 руб. до вычета налогов",
+        "name_company": "ОООМедиаСофт",
+        "city": "Санкт-Петербург, Петроградская, Чкаловская, Лахтинская улица, 16"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72279956",
+        "salary": "з/п не указана",
+        "name_company": "ОООАнлимитед Продакшен",
+        "city": "Москва, Новослободская улица, 24с1"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/75697177",
+        "salary": "з/п не указана",
+        "name_company": "АОАСТ",
+        "city": "Москва, Волгоградский проспект, Остаповский проезд, 3"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/76007414",
+        "salary": "з/п не указана",
+        "name_company": "ОООБристоль, сеть магазинов",
+        "city": "Москва, 1-й Красногвардейский проезд, 15"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73317320",
+        "salary": "з/п не указана",
+        "name_company": "GeekBrains",
+        "city": "Москва"
+    }
+]
