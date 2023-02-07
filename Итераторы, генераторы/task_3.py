@@ -1,14 +1,14 @@
 class FlatIterator:
 
     def __init__(self, list_of_list):
-        def flat_iterator(lst, res=[]):
+        def list_merge(lst, res=[]):
             for item in lst:
                 if isinstance(item, list):
-                    flat_iterator(item)
+                    list_merge(item)
                 else:
                     res.append(item)
             return res
-        self.list = flat_iterator(list_of_list)
+        self.list = list_merge(list_of_list)
         self.start = -1
         self.end = len(self.list)
 
