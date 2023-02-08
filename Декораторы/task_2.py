@@ -2,14 +2,23 @@ import os
 
 
 def logger(path):
-    ...
 
     def __logger(old_function):
+        import datetime
+
         def new_function(*args, **kwargs):
-            ...
-
+            f = open(path, "a")
+            f.write(f'{datetime.datetime.now()}\n')
+            f.write(f'{str(old_function.__name__)}\n')
+            for value_args in args:
+                f.write(f'{value_args}\n')
+            for value_kwargs in kwargs.values():
+                f.write(f'{value_kwargs}\n')
+            return_value = old_function(*args, **kwargs)
+            f.write(str(f'{return_value}\n'))
+            f.close()
+            return return_value
         return new_function
-
     return __logger
 
 

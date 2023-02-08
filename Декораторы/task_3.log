@@ -1,0 +1,4 @@
+2023-02-08 15:21:02.485401
+flat_generator
+[['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]
+<generator object main.<locals>.flat_generator at 0x000001ECA5282030>
