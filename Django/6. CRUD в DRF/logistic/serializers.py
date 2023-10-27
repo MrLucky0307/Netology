@@ -24,7 +24,6 @@ class StockSerializer(serializers.ModelSerializer):
         for i in positions:
             new_stok_product = StockProduct.objects.create(product=i['product'], stock=stock, quantity=i['quantity'],
                                                            price=i['price'])
-            stock.positions.add(new_stok_product)
         return stock
 
     def update(self, instance, validated_data):
@@ -37,4 +36,4 @@ class StockSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Stock
-        fields = ["address", "positions"]
+        fields = '__all__'
