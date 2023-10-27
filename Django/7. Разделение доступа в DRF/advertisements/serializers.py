@@ -1,6 +1,6 @@
 from django.contrib.auth.models import User
 from rest_framework import serializers
-
+from rest_framework.serializers import ValidationError
 from advertisements.models import Advertisement
 
 
@@ -38,21 +38,16 @@ class AdvertisementSerializer(serializers.ModelSerializer):
         return super().create(validated_data)
 
     def validate(self, data):
-        """Метод для в9алидации. Вызывается при создании и обновлении."""
-        # print(data['status'])
-        # TODO: добавь9те требуемую валидацию
+        """Метод для валидации. Вызывается при создании и обновлении."""
 
-        print(self.context["request"].user)
-        if 'OPEN' in data or 'title' in data:
-            advertisement = Advertisement.objects.all()
-            sr = []
-            for t in range(len(advertisement)):
+        print(data.get('status', None))
 
-                if advertisement[t].status == 'OPEN' and advertisement[t].creator == self.context["request"].user:
-                    sr.append(advertisement[t].status)
+        if data.get('status') == 'OPEN' and self.context['request'].method == 'POST':
+            if Advertisement.objects.filter(status='OPEN', creator=self.context["request"].user).count() >= 10:
+                raise ValidationError('Count adv status=OPEN 10')
 
-                if len(sr) >= 10:
-                    raise serializers.ValidationError(f'У вас больше 10 открытых обьявлений, закройте не нужные!')
-            sr.clear()
+        if data.get('status') == 'OPEN' and self.context['request'].method == 'PATCH':
+            if Advertisement.objects.filter(status='OPEN', creator=self.context["request"].user).count() >= 10:
+                raise ValidationError('Count adv status=OPEN 10')
 
         return data
